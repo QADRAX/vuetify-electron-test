@@ -23,10 +23,7 @@
 
       <v-spacer></v-spacer>
 
-      <v-btn
-        to="/about"
-        text
-      >
+      <v-btn to="/about" text>
         <span class="mr-2">Latest Release</span>
         <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
